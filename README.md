@@ -22,6 +22,8 @@ stream(function(tweet){
 
 ## Web Browser Twitter Firehose
 
+You can receive tweets in a streaming firehose directly in your web browser.
+
 ```html
 <script src="https://cdn.pubnub.com/pubnub.min.js"></script>
 <script>
