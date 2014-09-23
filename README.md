@@ -20,7 +20,7 @@ stream(function(tweet){
 
 [PubNub Twitter Firehose Live Stream](https://www.npmjs.org/package/pubnub-twitter)
 
-## Web Browser Firehose
+## Web Browser Twitter Firehose
 
 ```html
 <script src="https://cdn.pubnub.com/pubnub.min.js"></script>
