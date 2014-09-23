@@ -15,3 +15,7 @@ stream(function(tweet){
     console.log( "Tweet: ", JSON.stringify(tweet) );
 });
 ```
+
+## NPM pubnub-twitter
+
+[PubNub Twitter Firehose Live Stream](https://www.npmjs.org/package/pubnub-twitter)
