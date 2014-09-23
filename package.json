@@ -1,0 +1,35 @@
+{
+  "name": "pubnub-twitter",
+  "version": "1.0.0", 
+  "author": "PubNub <stephen@pubnub.com>",
+  "description": "Live Twitter Firehose Stream",
+  "contributors": [
+    {
+      "name": "Stephen Blum",
+      "email": "stephen@pubnub.com"
+    }
+  ],
+  "bin": {},
+  "scripts": { },
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenlb/pubnub-twitter.git"
+  },
+  "keywords": [
+    "pubnub",
+    "twitter",
+    "firehose",
+    "websockets"
+  ],
+  "dependencies": {
+    "pubnub": "^3.6.7"
+  },
+  "noAnalyze": false,
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.2"
+  }
+}
